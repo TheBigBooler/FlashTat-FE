@@ -1,9 +1,9 @@
 const Home = () => {
     return (
-        <>
-        <p>Homepage</p>
-        </>
-    )
+      <>
+        <div className="text-red-500">Welcome to FlashTat!</div>
+      </>
+    );
 }
 
 export default Home;
